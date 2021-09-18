@@ -9,9 +9,9 @@ export default function Index() {
                 <div class="box-user"> 
                     <div class="user-image">
                         <img src="/assets/images/usuario.jpeg" alt="" />
-                        <div class="absolute">3</div>
+                        <div class="absolute">10</div>
                     </div>
-                    <div class="user-name"> Olá, <b>Bruno de Oliveira</b> </div>
+                    <div class="user-name"> Olá, <b>Kaique Oliveira</b> </div>
                 </div>
                 
                 <div class="box-image">
